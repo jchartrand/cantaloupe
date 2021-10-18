@@ -15,8 +15,8 @@ Thumbs.db
 nbactions.xml
 
 # App config
-/cantaloupe.properties
-/cantaloupe*.properties
+#/cantaloupe.properties
+#/cantaloupe*.properties
 /delegates.*
 /delegates*.*
 /test.properties
